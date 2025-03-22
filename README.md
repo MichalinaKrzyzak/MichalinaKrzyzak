@@ -1,4 +1,4 @@
-# Welcome to My Profile!
+# Welcome to my profile!
 
 Hello! I'm Michalina, a burgeoning Software Tester making my entry into the realm of quality assurance with a solid foundation in both manual and automation testing. My interest in software testing sparked from a desire to ensure that technology not only meets its design specifications but also exceeds user expectations in reliability and performance.
 
